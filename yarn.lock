@@ -3843,9 +3843,10 @@ uglify-to-browserify@~1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/uglify-to-browserify/-/uglify-to-browserify-1.0.2.tgz#6e0924d6bda6b5afe349e39a6d632850a0f882b7"
 
-ui-router-core@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/ui-router-core/-/ui-router-core-3.1.0.tgz#c297e8198631ab2e36892a95d0f9a92c18efbc17"
+ui-router-core@3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/ui-router-core/-/ui-router-core-3.1.1.tgz#9fccf9631bdf61d4641e333c74c3d1cc347dca18"
+  integrity sha1-n8z5YxvfYdRkHjM8dMPRzDR9yhg=
 
 ui-router-typedoc-themes@^1.0.1:
   version "1.0.2"
